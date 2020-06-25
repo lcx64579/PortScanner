@@ -14,6 +14,14 @@ Host port scanner with GUI (Chinese) using Qt Creator 5.9.0.
 
 你也可以自己重新编译项目。方法不再赘述。
 
+## 功能
+
+针对一个 IP 地址进行 TCP 端口扫描。
+
+你可以指定端口范围、超时和并发线程数。
+
+就这样。这是个课程设计。
+
 ## 环境
 
 - 测试系统：Ubuntu 18.04 LTS
